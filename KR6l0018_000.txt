@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘曇甘露味論
+#+DATE: 2015-08-30 20:50:43.935229
+#+PROPERTY: JUAN 0
